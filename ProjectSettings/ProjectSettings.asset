@@ -295,7 +295,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 0f16a8abe824b734ab9050c951463493, type: 3}
+      m_Icon: {fileID: 2800000, guid: 802500a130989da49bc852c40b99a8fe, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
@@ -373,13 +373,13 @@ PlayerSettings:
       m_Kind: 4
       m_SubKind: App Store
     - m_Textures:
-      - {fileID: 2800000, guid: 0f16a8abe824b734ab9050c951463493, type: 3}
+      - {fileID: 2800000, guid: 802500a130989da49bc852c40b99a8fe, type: 3}
       m_Width: 180
       m_Height: 180
       m_Kind: 0
       m_SubKind: iPhone
     - m_Textures:
-      - {fileID: 2800000, guid: 0f16a8abe824b734ab9050c951463493, type: 3}
+      - {fileID: 2800000, guid: 802500a130989da49bc852c40b99a8fe, type: 3}
       m_Width: 120
       m_Height: 120
       m_Kind: 0
@@ -462,8 +462,8 @@ PlayerSettings:
       m_Kind: 0
       m_SubKind: 
     - m_Textures:
-      - {fileID: 2800000, guid: 3250a2b172f5bf74e82bf966dec5f862, type: 3}
-      - {fileID: 2800000, guid: 3250a2b172f5bf74e82bf966dec5f862, type: 3}
+      - {fileID: 0}
+      - {fileID: 0}
       m_Width: 432
       m_Height: 432
       m_Kind: 2

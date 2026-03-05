@@ -551,11 +551,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Welcome to the volcano\u2019s core \u2014 every move sends out a wave
-    of fire.\n\nPlace your tile on the 5x5 field and watch it push everything around.\n\nWhen
-    two tiles of the same level meet, they merge and ignite a new wave.\n\nPlan your
-    placements \u2014 run out of space, and it\u2019s over.\nKeep the lava flowing
-    and climb to the highest tier you can!"
+  m_text: "Place elements on the 5x5 board to start a push wave in four directions.\nThe
+    wave shifts nearby pieces across the grid.\nWhen two identical elements meet,
+    they merge into a higher level and trigger another wave.\nYou can see the next
+    element before placing it, so plan your moves carefully.\nDon\u2019t block the
+    board \u2014 if there\u2019s no space left, the game ends.\nCreate higher-level
+    elements to earn more points and keep the chain going."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

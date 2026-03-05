@@ -520,8 +520,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -38.697}
-  m_SizeDelta: {x: -308.691, y: -434.529}
+  m_AnchoredPosition: {x: 0, y: 4.3720703}
+  m_SizeDelta: {x: -180.5877, y: -220.2875}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3877953615490597009
 CanvasRenderer:
@@ -551,11 +551,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Place elements on the 5x5 board to start a push wave in four directions.\nThe
-    wave shifts nearby pieces across the grid.\nWhen two identical elements meet,
-    they merge into a higher level and trigger another wave.\nYou can see the next
-    element before placing it, so plan your moves carefully.\nDon\u2019t block the
-    board \u2014 if there\u2019s no space left, the game ends.\nCreate higher-level
+  m_text: "Place elements on the 5x5 board to start a push wave in four directions.\n\nThe
+    wave shifts nearby pieces across the grid.\n\nWhen two identical elements meet,
+    they merge into a higher level and trigger another wave.\n\nYou can see the next
+    element before placing it, so plan your moves carefully.\n\nDon\u2019t block
+    the board \u2014 if there\u2019s no space left, the game ends.\n\nCreate higher-level
     elements to earn more points and keep the chain going."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

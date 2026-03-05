@@ -15,7 +15,7 @@ MonoBehaviour:
   shopItemInfos:
   - itemEnum: 0
     id: 0
-    sprite: {fileID: 21300000, guid: ff0bcea102c6fdf4aa51842c98b0570d, type: 3}
+    sprite: {fileID: 21300000, guid: 8fc54f3e10c18bb4c99baa7286a28d42, type: 3}
     price: 0
     isDefaultOwned: 1
   - itemEnum: 0
